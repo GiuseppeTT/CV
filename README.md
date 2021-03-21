@@ -26,11 +26,20 @@ This will:
 
 After that, the CV and resume (one-page CV) will be available at `output/` folder.
 
+### Locally, but with steroids
+Additionally, if you have VSCode and docker installed, you can can reproduce my development environment in your machine. To do so, install the VSCode extension [ms-vscode-remote.remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) and follow the steps in the [extension tutorial](https://code.visualstudio.com/docs/remote/containers#_quick-start-open-an-existing-folder-in-a-container) before running the following commands in your terminal:
+
+```
+make render_CV
+make print_CV
+```
+
 ### GitHub Actions
 You don't have to do nothing. I set up a workflow, so every time I push to the `main` branch, GitHub Actions will deploy the last version to `github-pages` (.html files) and `print` (.pdf files) branches. From the `github-pages` branch, GitHub Pages will also update the associated web version.
 
 ## Structure
 The project structure is the following:
+- `.devcontainer/`: Contains devcontainer files. Used to reproduce my development environment in your machine with VSCode and docker.
 - `.github/workflows/`: Contains GitHub Actions workflow. Mainly used to deploy CV.
 - `css/`: Contains .css (style) files.
 - `output/`: Contains .html and .pdf (output) files.
