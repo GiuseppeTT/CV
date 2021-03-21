@@ -1,0 +1,29 @@
+---
+title: "Giuseppe Tinti Tomio's resume"
+author: "Giuseppe Tinti Tomio"
+date: "`r Sys.Date()`"
+output:
+    pagedown::html_resume:
+        self_contained: true
+        css:
+            - "../css/resume.css"  # For some reason, css path is relative to .Rmd source instead of knit_root_dir
+            - "resume"             # Built-in CSS file as described in pagedown::html_paged
+---
+
+Aside
+==============================================================================
+
+Disclaimer
+------------------------------------------------------------------------------
+
+Made with the R package [pagedown](https://github.com/rstudio/pagedown).
+
+Up-to-date versions available for [web](https://giuseppett.github.io/CV/resume) and [PDF](https://github.com/GiuseppeTT/CV/raw/print/resume.pdf).
+
+Source code on [GitHub](https://github.com/GiuseppeTT/CV).
+
+Main
+==============================================================================
+
+Giuseppe Tinti Tomio {#title}
+------------------------------------------------------------------------------
