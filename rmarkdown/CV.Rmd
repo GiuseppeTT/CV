@@ -13,6 +13,41 @@ output:
 Aside
 ==============================================================================
 
+<i class="fas fa-phone"></i> Contact
+------------------------------------------------------------------------------
+
+<i class="fa fa-envelope"></i> [g.tinti.tomio@gmail.com](mailto:g.tinti.tomio@gmail.com)
+
+<i class="fab fa-linkedin"></i> [linkedin.com/in/giuseppett/](https://www.linkedin.com/in/giuseppett/)
+
+<i class="fa fa-github"></i> [github.com/GiuseppeTT](https://www.github.com/GiuseppeTT)
+
+<i class="fas fa-language"></i> Language
+------------------------------------------------------------------------------
+
+**Portuguese:** native
+
+**English:** proficient
+
+<i class="fas fa-code"></i> Programming
+------------------------------------------------------------------------------
+
+<i class="fab fa-r-project"></i> `R`
+
+<i class="fab fa-python"></i> `python`
+
+<i class="fas fa-database"></i> `SQL`
+
+<i class="fas fa-paragraph"></i> `LaTeX`
+
+<i class="fas fa-code-branch"></i> `git`
+
+<i class="fab fa-github"></i> `GitHub`
+
+<i class="fab fa-docker"></i> `docker`
+
+<i class="fab fa-linux"></i> `linux`
+
 Disclaimer
 ------------------------------------------------------------------------------
 
@@ -27,3 +62,129 @@ Main
 
 Giuseppe Tinti Tomio {#title}
 ------------------------------------------------------------------------------
+
+I am a MSc in statistics student at UBC, based in Vancouver. I have experience in both research and industry.
+
+Education {data-icon=graduation-cap}
+------------------------------------------------------------------------------
+
+### University of British Columbia
+
+MSc in Statistics
+
+Vancouver - Canada
+
+Present - 2021
+
+Thesis: to be defined.
+
+### National Institute for Pure and Applied Mathematics
+
+Summer Course - Real Analysis
+
+Rio de Janeiro - Brazil
+
+2021
+
+### University of Campinas
+
+BSc in Statistics
+
+Campinas - Brazil
+
+2020 - 2016
+
+Professional Experience {data-icon=suitcase}
+------------------------------------------------------------------------------
+
+### Goldman Sachs
+
+Strategist Intern
+
+São Paulo - Brazil
+
+2020
+
+- Worked on pricing automation of structured notes.
+- Employed stochastic calculus and machine learning models.
+
+### Institute of Mathematics and Statistics
+
+Statistical Consultant
+
+Campinas - Brazil
+
+2020
+
+- TODO (IEL)
+- TODO (IB)
+
+Research Experience
+------------------------------------------------------------------------------
+
+### Time Series, Econometrics and Finances Laboratory
+
+Undergraduate Researcher
+
+Campinas - Brazil
+
+2021 - 2018
+
+- TODO (Description)
+- Supervisor: Prof. Luiz Koodi Hotta
+
+### Organic Solids and New Materials Research Group
+
+Undergraduate Researcher
+
+Campinas - Brazil
+
+2018 - 2016
+
+- TODO (Description)
+- Supervisor: Prof. Douglas Soares Galvão
+
+Publications
+------------------------------------------------------------------------------
+
+### Paper in progress
+
+TODO
+
+TODO
+
+TODO
+
+Awards
+------------------------------------------------------------------------------
+
+### São Paulo Research Foundation
+
+Research Grant
+
+Campinas - Brazil
+
+2019
+
+TODO (Description)
+
+### São Paulo Research Foundation
+
+Research Grant
+
+Campinas - Brazil
+
+2017
+
+TODO (Description)
+
+Reading Selection
+------------------------------------------------------------------------------
+
+### TODO
+
+TODO
+
+TODO
+
+TODO
