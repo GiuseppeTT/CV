@@ -18,7 +18,7 @@ Aside
 
 <i class="fa fa-envelope"></i> [g.tinti.tomio@gmail.com](mailto:g.tinti.tomio@gmail.com)
 
-<i class="fab fa-linkedin"></i> [linkedin.com/in/giuseppett/](https://www.linkedin.com/in/giuseppett/)
+<i class="fab fa-linkedin"></i> [linkedin.com/in/giuseppett](https://www.linkedin.com/in/giuseppett)
 
 <i class="fa fa-github"></i> [github.com/GiuseppeTT](https://www.github.com/GiuseppeTT)
 
@@ -65,7 +65,7 @@ Giuseppe Tinti Tomio {#title}
 
 I am a MSc in statistics student at UBC, based in Vancouver. I have experience in both research and industry.
 
-Education {data-icon=graduation-cap}
+<i class="fas fa-graduation-cap"></i> Education
 ------------------------------------------------------------------------------
 
 ### University of British Columbia
@@ -94,7 +94,7 @@ Campinas - Brazil
 
 2020 - 2016
 
-Professional Experience {data-icon=suitcase}
+<i class="fas fa-suitcase"></i> Professional Experience
 ------------------------------------------------------------------------------
 
 ### Goldman Sachs
@@ -116,10 +116,10 @@ Campinas - Brazil
 
 2020
 
-- TODO (IEL)
-- TODO (IB)
+- [(GitHub)](https://github.com/GiuseppeTT/me812) Provided statistical consulting to a linguistic professor with his study of the difference between the spoken-Portuguese of Angola and Mozambique.
+- [(GitHub)](https://github.com/GiuseppeTT/me712) Provided statistical consulting to a biology Ph.D. candidate with his study of the impacts of genes RAG1 and RAG2 in the immune system of mice infected with the Oropouche virus.
 
-Research Experience
+<i class="fas fa-flask"></i> Research Experience
 ------------------------------------------------------------------------------
 
 ### Time Series, Econometrics and Finances Laboratory
@@ -130,8 +130,9 @@ Campinas - Brazil
 
 2021 - 2018
 
-- TODO (Description)
 - Supervisor: Prof. Luiz Koodi Hotta
+- Researched mathematical approaches to determine money and risk allocation when investing in multiple assets (e.g., stocks and bonds).
+- Presented my work at Unicamp Undergraduate Research Congress.
 
 ### Organic Solids and New Materials Research Group
 
@@ -141,10 +142,10 @@ Campinas - Brazil
 
 2018 - 2016
 
-- TODO (Description)
 - Supervisor: Prof. Douglas Soares Galvão
+- Designed graphene-based structures appropriate to build transistors with the aid of genetic algorithms.
 
-Publications
+<i class="fas fa-file-alt"></i> Publications
 ------------------------------------------------------------------------------
 
 ### Paper in progress
@@ -155,7 +156,7 @@ TODO
 
 TODO
 
-Awards
+<i class="fas fa-award"></i> Awards
 ------------------------------------------------------------------------------
 
 ### São Paulo Research Foundation
@@ -178,7 +179,7 @@ Campinas - Brazil
 
 TODO (Description)
 
-Reading Selection
+<i class="fas fa-book"></i> Reading Selection
 ------------------------------------------------------------------------------
 
 ### TODO
