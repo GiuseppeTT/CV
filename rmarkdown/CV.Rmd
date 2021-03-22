@@ -63,7 +63,7 @@ Main
 Giuseppe Tinti Tomio {#title}
 ------------------------------------------------------------------------------
 
-I am a MSc in statistics student at UBC, based in Vancouver. I have experience in both research and industry.
+I am a MSc in Statistics student at UBC. I have experience in both research and industry, mostly related to quantitative finance. I am also high skilled with programming and very involved with open science / open source.
 
 <i class="fas fa-graduation-cap"></i> Education
 ------------------------------------------------------------------------------
@@ -196,14 +196,6 @@ N/A
 
 2019
 
-### Introduction to Risk Parity and Budgeting
-
-Thierry Roncalli
-
-N/A
-
-2018
-
 ### Introduction to the Theory of Statistics
 
 Alexander Mood
@@ -243,3 +235,11 @@ Stephen Hawking
 N/A
 
 2012
+
+### The Hitchhiker's Guide to the Galaxy
+
+Douglas Adams
+
+N/A
+
+2010
