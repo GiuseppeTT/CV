@@ -22,6 +22,13 @@ jobs:
       - name: Setup pandoc (necessary for rmarkdown::render)
         uses: r-lib/actions/setup-pandoc@v1
 
+      - name: Restore R dependencies cache
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: R-${{ runner.os }}-${{ hashFiles('DESCRIPTION') }}
+          restore-keys: R-${{ runner.os }}-
+
       - name: Install R deploy dependencies
         run: make install_deploy_dependencies
 
@@ -31,7 +38,7 @@ jobs:
       - name: Render CV
         run: make render_CV
 
-      - name: Deploy html version to GitHub Pages
+      - name: Deploy web version to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
           branch: gh-pages
