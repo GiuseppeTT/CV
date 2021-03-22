@@ -94,6 +94,8 @@ Campinas - Brazil
 
 2020 - 2016
 
+GPA: 87.5 / 100 - 1st / 84
+
 <i class="fas fa-suitcase"></i> Professional Experience
 ------------------------------------------------------------------------------
 
@@ -150,11 +152,11 @@ Campinas - Brazil
 
 ### Paper in progress
 
-TODO
+Paper in progress
 
-TODO
+N/A
 
-TODO
+2021
 
 <i class="fas fa-award"></i> Awards
 ------------------------------------------------------------------------------
@@ -167,8 +169,6 @@ Campinas - Brazil
 
 2019
 
-TODO (Description)
-
 ### São Paulo Research Foundation
 
 Research Grant
@@ -177,15 +177,69 @@ Campinas - Brazil
 
 2017
 
-TODO (Description)
-
 <i class="fas fa-book"></i> Reading Selection
 ------------------------------------------------------------------------------
 
-### TODO
+### Computer Age Statistical Inference: Algorithms, Evidence, and Data Science
 
-TODO
+Bradley Efron and Trevor Hastie
 
-TODO
+N/A
 
-TODO
+2020
+
+### Options, Futures, and Other Derivatives
+
+John Hull
+
+N/A
+
+2019
+
+### Introduction to Risk Parity and Budgeting
+
+Thierry Roncalli
+
+N/A
+
+2018
+
+### Introduction to the Theory of Statistics
+
+Alexander Mood
+
+N/A
+
+2018
+
+### R for Data Science
+
+Garrett Grolemund and Hadley Wickham
+
+N/A
+
+2017
+
+### Linear Algebra Done Right
+
+Sheldon Axler
+
+N/A
+
+2016
+
+### Calculus
+
+Michael Spivak
+
+N/A
+
+2016
+
+### The Universe in a Nutshell
+
+Stephen Hawking
+
+N/A
+
+2012
